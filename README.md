@@ -1,2 +1,7 @@
 # Data-Analytics-Project-using-Python-and-SQL
-End-to-End Data Analytics Project using Python and SQL This project covers the full data analytics pipeline: 1)Data Acquisition: Downloaded dataset via Kaggle API. 2)Data Processing: Cleaned data with pandas. 3)Data Loading: Imported data into SQL Server. 4)SQL Querying: Performed complex SQL queries for insights.
+This project demonstrates a complete data analytics pipeline, covering all key stages:
+
+1. Data Acquisition – Retrieved the dataset using the Kaggle API.
+2. Data Cleaning & Preprocessing – Processed and cleaned the data using Pandas for consistency and accuracy.
+3. Data Loading – Imported the refined dataset into SQL Server for structured storage.
+4. SQL Querying & Analysis – Executed complex SQL queries to extract meaningful insights from the data.
